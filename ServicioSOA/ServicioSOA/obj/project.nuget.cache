@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJTaRbxk9O/nGUcQMxqtyQbI4BMx71bNpQRw6FaMVUfoEJ57NtUfKise0bgN5F95K8iK0l8o61QARGEo4dRm5Q==",
+  "dgSpecHash": "fKiHXFPqe3IFI3YzH2ECTNzwSyFdT1Sc88aOf5xGKdXCmiBMhOglT/i6aewq1pj6YmC8MBoB55oQyUz/ZaUsCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miancastillo\\source\\repos\\ServicioSOA\\ServicioSOA\\ServicioSOA.csproj",
+  "projectFilePath": "C:\\Users\\miancastillo\\source\\repos\\pNet\\ServicioSOA\\ServicioSOA\\ServicioSOA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miancastillo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\miancastillo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

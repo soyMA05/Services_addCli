@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miancastillo\\source\\repos\\ServicioSOA\\ServicioSOA\\ServicioSOA.csproj",
+      "projectUniqueName": "C:\\Users\\miancastillo\\source\\repos\\pNet\\ServicioSOA\\ServicioSOA\\ServicioSOA.csproj",
       "projectName": "ServicioSOA",
-      "projectPath": "C:\\Users\\miancastillo\\source\\repos\\ServicioSOA\\ServicioSOA\\ServicioSOA.csproj",
+      "projectPath": "C:\\Users\\miancastillo\\source\\repos\\pNet\\ServicioSOA\\ServicioSOA\\ServicioSOA.csproj",
       "packagesPath": "C:\\Users\\miancastillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miancastillo\\source\\repos\\ServicioSOA\\ServicioSOA\\obj\\",
+      "outputPath": "C:\\Users\\miancastillo\\source\\repos\\pNet\\ServicioSOA\\ServicioSOA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miancastillo\\AppData\\Roaming\\NuGet\\NuGet.Config",

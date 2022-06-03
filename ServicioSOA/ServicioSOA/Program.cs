@@ -1,3 +1,7 @@
+using ServicioSOA.Modelo;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -23,3 +27,21 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+public class Program
+{
+    public static List<Producto> productos;
+
+    public static void Main(string[] args)
+    {
+        productos = new List<Producto>();
+        productos.Add(new Producto(1, "Queso", 3.10, 3));
+        productos.Add(new Producto(2, "Yogurt", 2.50, 5));
+        productos.Add(new Producto(3, "Mantequilla", 1.70, 2));
+        productos.Add(new Producto(3, "Pan", 0.30, 10));
+        CreateHostBuilder(args).Build().Run();
+
+    }
+
+}
+
