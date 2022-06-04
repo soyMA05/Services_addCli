@@ -2,9 +2,11 @@ using ServicioSOA.Modelo;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
-var builder = WebApplication.CreateBuilder(args);
+/*
+var builder = WebApplication.CreateHostBuilder(args);
 
-// Add services to the container.
+    
+    // Add services to the container.
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -12,7 +14,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
+/*
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -27,9 +29,10 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
+*/
 public class Program
 {
+    
     public static List<Producto> productos;
 
     public static void Main(string[] args)
@@ -39,9 +42,16 @@ public class Program
         productos.Add(new Producto(2, "Yogurt", 2.50, 5));
         productos.Add(new Producto(3, "Mantequilla", 1.70, 2));
         productos.Add(new Producto(3, "Pan", 0.30, 10));
-        CreateHostBuilder(args).Build().Run();
+        var builder = WebApplication.CreateBuilder(args);
+        builder.Build().Run();
 
     }
-
+    /*
+    private static object CreateHostBuilder(string[] args)
+    {
+        var builder = WebApplication.CreateBuilder(args);
+        var app = builder.Build();
+        throw new NotImplementedException();
+    }*/
 }
 

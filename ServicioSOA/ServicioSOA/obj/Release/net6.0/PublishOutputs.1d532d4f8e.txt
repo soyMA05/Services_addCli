@@ -1,0 +1,11 @@
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\ServicioSOA.exe
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\ServicioSOA.dll
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\ServicioSOA.deps.json
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\ServicioSOA.runtimeconfig.json
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\ServicioSOA.pdb
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\miancastillo\source\repos\pNet\ServicioSOA\ServicioSOA\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

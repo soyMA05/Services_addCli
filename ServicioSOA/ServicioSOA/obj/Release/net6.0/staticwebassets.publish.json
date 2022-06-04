@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "po0c+8ic0OAzNbgAgF+H36lOBBM38yUbHBMjSbHw7RA=",
+  "Source": "ServicioSOA",
+  "BasePath": "_content/ServicioSOA",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
