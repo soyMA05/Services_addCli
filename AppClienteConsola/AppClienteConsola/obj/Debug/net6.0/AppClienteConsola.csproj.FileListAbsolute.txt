@@ -1,0 +1,15 @@
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\bin\Debug\net6.0\AppClienteConsola.exe
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\bin\Debug\net6.0\AppClienteConsola.deps.json
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\bin\Debug\net6.0\AppClienteConsola.runtimeconfig.json
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\bin\Debug\net6.0\AppClienteConsola.dll
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\bin\Debug\net6.0\AppClienteConsola.pdb
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.csproj.AssemblyReference.cache
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.AssemblyInfoInputs.cache
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.AssemblyInfo.cs
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.csproj.CoreCompileInputs.cache
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.dll
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\refint\AppClienteConsola.dll
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.pdb
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\AppClienteConsola.genruntimeconfig.cache
+C:\Users\miancastillo\source\repos\pNet\AppClienteConsola\AppClienteConsola\obj\Debug\net6.0\ref\AppClienteConsola.dll
