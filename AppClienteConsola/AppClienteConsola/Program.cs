@@ -15,18 +15,16 @@ namespace AppClienteConsola
         static void Main (string[] args)
         {
             string url = "http://localhost:9090/api/inventario";
-            
+            ListarElementos(url);
         }
         static void ListarElementos(string url)
         {
             using (HttpClient cliente = new HttpClient())
             {
                 using (HttpRequestMessage solicitud = new HttpRequestMessage())
-                {
+                {   //creando solicitudes
                     solicitud.RequestUri = new Uri(url);   
                     solicitud.Method = HttpMethod.Get;
-
-                    //solicitudes
                     solicitud.Headers.Add("Accept", "application/json");
 
                     //respuesta de la solicitudd

@@ -4,7 +4,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\inetpub\wwwroot\ServicioSOAProyect</_PublishTargetUrl>
-    <History>True|2022-06-03T12:07:21.1288907Z;</History>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\SOAPServicio</_PublishTargetUrl>
+    <History>True|2022-06-04T21:03:21.1793304Z;False|2022-06-04T16:00:55.0613919-05:00;</History>
   </PropertyGroup>
 </Project>
